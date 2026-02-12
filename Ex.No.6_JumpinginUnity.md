@@ -1,4 +1,4 @@
-<img width="1917" height="1136" alt="image" src="https://github.com/user-attachments/assets/f3afe89c-6f31-43bd-ab53-ff175ce9933c" /># Ex.No: 6  Implementation of Jumping  behaviour- Unity
+# EXNO: 6 Implementation of jumping behaviour- Unity
 ### DATE: 12-02-2026                                                                           
 ### REGISTER NUMBER : 212224240085
 ### AIM: 
